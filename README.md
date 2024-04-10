@@ -84,7 +84,8 @@ endmodule
 ![Screenshot 2024-03-22 143433](https://github.com/Yogesh-Yogi-1/FULL_ADDER_SUBTRACTOR/assets/148514598/aa118976-fe63-40e9-a31c-cec66367d805)
 *Output Timing Waveform*
 ![Screenshot 2024-03-18 090939](https://github.com/Yogesh-Yogi-1/FULL_ADDER_SUBTRACTOR/assets/148514598/fe08e008-070e-4e8b-bee9-f26ade621c0e)
-![Screenshot 2024-03-18 092119](https://github.com/Yogesh-Yogi-1/FULL_ADDER_SUBTRACTOR/assets/148514598/c37c43ae-514e-4fda-82d9-22ed613851e0)
+![Screenshot 2024-04-10 112514](https://github.com/akash7812/FULL_ADDER_SUBTRACTOR/assets/146819826/32ff5d61-3798-4428-9c23-f6a83f6cf506)
+
 *Result:*
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
